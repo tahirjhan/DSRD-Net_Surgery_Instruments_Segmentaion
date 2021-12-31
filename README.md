@@ -9,3 +9,7 @@
 MATLAB R2021b
 
 ## Result
+
+<img src="https://github.com/tahirjhan/DSRD-Net_Surgery_Instruments_Segmentaion/blob/main/image_1.png" width="400" />
+<img src="https://github.com/tahirjhan/DSRD-Net_Surgery_Instruments_Segmentaion/blob/main/image_2.png" width="400" />
+
